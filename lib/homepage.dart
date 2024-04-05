@@ -80,7 +80,7 @@ class _homepageState extends State<homepage> {
               yourName = value;
             }),
             decoration: InputDecoration(
-                border: OutlineInputBorder(), labelText: 'Your Name'),
+                border: OutlineInputBorder(), labelText: 'Your Name '),
           ),
         ),
         Padding(
@@ -90,7 +90,7 @@ class _homepageState extends State<homepage> {
               partnerName = value;
             }),
             decoration: InputDecoration(
-                border: OutlineInputBorder(), labelText: 'Your Partner Name'),
+                border: OutlineInputBorder(), labelText: 'Your Partner '),
           ),
         ),
         TextButton(
